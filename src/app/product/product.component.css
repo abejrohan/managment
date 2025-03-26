@@ -1,0 +1,33 @@
+nav {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background: #f8f9fa;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #e2e6ea;
+  }
+  
+  table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  

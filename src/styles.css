@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar {
+    background: #007bff;
+    padding: 10px;
+  }
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+  }
+  .active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
